@@ -32,5 +32,10 @@ layout: default
   * Item 3a unordered
   
 
+- List 1
+- List 2
+- List 3
+- List 4
+
 {% include 05-emphasis.md %}
 :heart:
